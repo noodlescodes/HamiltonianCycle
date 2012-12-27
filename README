@@ -1,0 +1,3 @@
+A program to find the shortest Hamiltonian cycle in a graph. It is fully hardcoded to find the shortest Hamiltonian cycle in the graph displayed at http://themusegarden.wordpress.com/2012/12/25/holiday-maths-puzzle-2/
+
+To use, just run ./make.sh (you will need to give it execute permissions (sudo chmod 764 make.sh)
